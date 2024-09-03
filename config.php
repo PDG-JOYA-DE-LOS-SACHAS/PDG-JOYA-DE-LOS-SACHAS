@@ -2,7 +2,7 @@
 $servername = "sql312.infinityfree.com"; // Reemplaza con tu servidor MySQL
 $username = "if0_37198882"; // Reemplaza con tu usuario MySQL
 $password = "Freiya000"; // Reemplaza con tu contraseña MySQL
-$dbname = "if0_37198882_XXX"; // Reemplaza con el nombre de tu base de datos
+$dbname = "if0_37198882_registro_empleados"; // Reemplaza con el nombre de tu base de datos
 
 // Crear la conexión
 $conn = new mysqli($servername, $username, $password, $dbname);
